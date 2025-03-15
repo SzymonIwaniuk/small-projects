@@ -1,0 +1,11 @@
+{
+ "include": [
+  "./**/*.py"
+  ],
+  "exclude": [
+  "venv/**",
+  "node_modules/**"
+  ],
+  "reportMissingImports": true,
+  "reportMissingTypeStubs": true
+  }
